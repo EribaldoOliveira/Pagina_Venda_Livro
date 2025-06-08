@@ -54,3 +54,6 @@ A proposta da página é **apresentar o livro de forma atrativa**, com seções 
 - Incluir formulário de contato ou compra
 - Integrar com uma API de pagamento fictícia ou real (ex: PayPal)
 
+## Demonstração
+![página de vendas do livro](https://github.com/user-attachments/assets/c133dd94-dae1-44d8-99fc-7d2ea7926275)
+
