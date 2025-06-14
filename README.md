@@ -1,3 +1,4 @@
+# 📘 Página de Venda
 # 📘 Página de Venda do Livro - *A Era Artificial*
 
 Este projeto é uma **landing page simples e responsiva** para divulgação e venda do livro fictício *A Era Artificial*. Criada com **HTML** e **CSS**, a página destaca elementos visuais que reforçam o tema de ficção científica e oferece uma navegação clara e objetiva.
